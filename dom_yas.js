@@ -1,4 +1,4 @@
- const rodri_circulo = document.jetElementById('circulo')
+ const rodri_circulo = document.getElementById('circulo')
  let tamanho_rodri = 10
 
  rodri_circulo.addEventListener('dblclik',()=>{
@@ -7,4 +7,6 @@
     rodri_circul.style.helght = `${tamanho_rodri}px`
     tamanho_rodri = tamanho_rodri+20,
      
-})
+}
+)
+
