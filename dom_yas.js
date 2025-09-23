@@ -7,6 +7,7 @@
     rodri_circul.style.helght = `${tamanho_rodri}px`
     tamanho_rodri = tamanho_rodri+20,
      
-}
+ }
 )
+
 
